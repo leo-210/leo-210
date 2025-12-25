@@ -1,5 +1,4 @@
-👋 I'm Léo Kosman, also known as Léo-21.
-
+## 👋 I'm Léo Kosman, also known as Léo-21.
 <hr>
 
 I easily get interested by varied topics, so here are _some_ of my interests: 
