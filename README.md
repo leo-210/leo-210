@@ -10,8 +10,8 @@ I easily get drawn to many topics, so here are _some_ of my interests:
 
 I recently designed a 
 [functional programming language featuring type inference](https://github.com/leo-210/typfun), built 
-[a custom split keyboard](https://github.com/leo-210/lambda-keyboard) from scratch, and occasionally 
-composed music.
+[a custom split keyboard](https://github.com/leo-210/lambda-keyboard) from scratch, and I occasionally 
+compose music.
 
 I particularly enjoy combining different fields, such as math and music, by studying rhythms and applying 
 them to my drumming.
