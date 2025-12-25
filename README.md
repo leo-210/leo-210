@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 I'm Léo Kosman, also known as Léo-21.
 
-<!--
-**leo-210/leo-210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have many interests, and when something catches my attention, I try to build it, implement it, or 
+to understand it better.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Some_ of my interests are: 
+- formal languages, functional programming and type theory;
+- sequential logic, low-level programming and direct applications of physics to computer science;
+- odd time signatures, polyrhythms, drums, metal and, more recently, music theory in general;
+- aviation and paragliding.
+
+I recently designed a 
+[functional programming language featuring type inference](https://github.com/leo-210/typfun), built 
+[a custom split keyboard](https://github.com/leo-210/lambda-keyboard) from scratch, and occasionally 
+composed music.
+
+I particularly enjoy combining different fields, such as math and music, by studying rhythms and applying 
+them to my drumming.
+
+<hr>
+
+I advocate for a free and open Internet: I contribute to FOSS projects, I use privacy-focused 
+tools, and I take a critical stance toward new technologies. I am committed to using what influence
+I have to build an open space for learning and sharing, a user-driven and sustainable Internet.
+
+<hr>
+
+To contact me, you can send me [an email](mailto:leo.kosman@proton.me).
