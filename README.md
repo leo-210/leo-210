@@ -1,11 +1,8 @@
 👋 I'm Léo Kosman, also known as Léo-21.
 
-I have many interests, and when something catches my attention, I try to build it, implement it, or 
-to understand it better.
-
 <hr>
 
-_Some_ of my interests are: 
+I easily get interested by varied topics, so here are _some_ of my interests: 
 - formal languages, functional programming and type theory;
 - sequential logic, low-level programming and direct applications of physics to computer science;
 - odd time signatures, polyrhythms, drums, metal and, more recently, music theory in general;
