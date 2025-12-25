@@ -24,7 +24,3 @@ them to my drumming.
 I advocate for a free and open Internet: I contribute to FOSS projects, I use privacy-focused 
 tools, and I take a critical stance toward new technologies. I am committed to using what influence
 I have to build an open space for learning and sharing, a user-driven and sustainable Internet.
-
-<hr>
-
-To contact me, you can send me [an email](mailto:leo.kosman@proton.me).
