@@ -1,4 +1,4 @@
-## 👋 I'm Léo Kosman, also known as Léo-21.
+## 👋 I'm Léo Kosman.
 
 
 
